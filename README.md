@@ -6,3 +6,4 @@ This is the code for the *Monitor Your Home With the Raspberry Pi B+* article on
 You can find the article on our website:
 
 [https://www.openhomeautomation.net/monitor-your-home-raspberry-pi-b/](https://www.openhomeautomation.net/monitor-your-home-raspberry-pi-b/)
+Brian Cisto
